@@ -1,5 +1,6 @@
 # inspired by https://github.com/karpathy/micrograd/blob/master/micrograd/engine.py
 # and tinygrad: https://github.com/geohot/tinygrad/blob/master/tinygrad/tensor.py
+# and https://github.com/jaketae/pygrad/blob/master/pygrad/nn/module.py
 
 import numpy as np
 
